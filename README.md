@@ -23,4 +23,13 @@ This repository serves as a guide to various machine learning techniques. Each c
 - Classification using Weka
 - Visualize result in Weka
 
+### Commit 5: Linear Regression
+It predicts weight in kg for a given height in cm.
+- **Mean Square Error:** 4.16
+
+Output:
+
+![image](https://github.com/jannat-349/ML-Lab-codes/assets/50805240/1428b0c7-863f-4a1d-a405-9fae2c4409eb)
+
+
 
