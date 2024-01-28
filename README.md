@@ -22,3 +22,5 @@ This repository serves as a guide to various machine learning techniques. Each c
 - Handle outliers and extreme values
 - Classification using Weka
 - Visualize result in Weka
+
+
